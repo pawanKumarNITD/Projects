@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.418,D:\C++ GUI Projects\Unit1.fmx=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.421,D:\C++ GUI Projects\Unit1\Unit1.fmx=D:\C++ GUI Projects\Unit1.fmx</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.418,D:\C++ GUI Projects\Unit1.cpp=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.305,D:\C++ GUI Projects\Unit1\Project1.cbproj=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.779,=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.418,D:\C++ GUI Projects\Unit1.h=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.273,D:\C++ GUI Projects\Unit1\Project1PCH1.h=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.421,D:\C++ GUI Projects\Unit1\Unit1.cpp=D:\C++ GUI Projects\Unit1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.421,D:\C++ GUI Projects\Unit1\Unit1.h=D:\C++ GUI Projects\Unit1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.889,=C:\Users\Lenovo\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
